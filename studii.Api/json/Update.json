@@ -1,0 +1,37 @@
+{
+    "update": {
+        "available": "yes",
+        "type": "Temporary",
+        "date": "6/16/2024",
+        "updateInfo": {
+            "Title": "Available Update!",
+            "message": "This is an important update. Please update App now to keeping enjoying the App. Sorry for the inconvenience.",
+            "featuresAdded": [
+                "Scholarship Updates",
+                "Improved User Interface fix",
+                "Bug Fixes",
+                "App speed and Performance"
+            ]
+        }
+    },
+    "notification": [
+        {
+            "available": "yes",
+            "date": "6/16/2024",
+            "title": "Exam Approaching!!!",
+            "message": "GoodDay Everyone! Your exams are fast approaching, Open up your Studii App and start learning with past questions and practicing with the CBT mode. Premium CbT is also Available!"
+        }
+    ],
+    "news": [
+        {
+            "title": "UNIBEN students protests over power outage",
+            "description": "It was learned that the purpose of the student demonstration was to pressure the university administration to promptly restore water and public electricity to the campus for students living in residence halls. It was learned that the purpose of the student demonstration was to pressure the university administration to promptly restore water and public electricity to the campus for students living in residence halls.The recent hike in the transportation fee for the campus shuttle bus services caused the students to become irate. Meanwhile, the university administration had not yet released a formal statement on the protest at the time this report was filed.",
+            "imageUrl": "https://res.cloudinary.com/dlpeoluxg/image/upload/v1720048224/uniben-student-protest-img_izcnfe.jpg"
+        },
+        {
+            "title": "Up coming Exams",
+            "description": "The UNIBEN exams are getting close, students needs to start their preparations despite the lack of electricity and water serivices. ",
+            "imageUrl": "https://res.cloudinary.com/dlpeoluxg/image/upload/v1720048224/uniben-student-protest-img_izcnfe.jpg"
+        }
+    ]
+}
