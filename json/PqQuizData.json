@@ -2311,6 +2311,962 @@
                             "answer": "were"
                         }
                     ]
+                },
+                {
+                    "year": "2019/2020",
+                    "total": "100",
+                    "questions": [
+                        {
+                            "q": "Give the meaning of idiomatic expression: TO \"Jazz up\" means to ________",
+                            "options": [
+                                "make something more exciting",
+                                "go faster",
+                                "make of a lot of noise",
+                                "none of the options"
+                            ],
+                            "answer": "make something more exciting"
+                        },
+                        {
+                            "q": "Choose the nearest in meaning to the word or phrase in italics: The young girl was 'taken aback' by her father's gift of a car.",
+                            "options": [
+                                "inviting",
+                                "cheerful",
+                                "liveless",
+                                "happy"
+                            ],
+                            "answer": "liveless"
+                        },
+                        {
+                            "q": "The card catalogue is in ________ card",
+                            "options": [
+                                "3\" x 4\"",
+                                "3\" x 5\"",
+                                "4\" x 4\"",
+                                "3\" x 3\""
+                            ],
+                            "answer": "3\" x 5\""
+                        },
+                        {
+                            "q": "Priscilla is plain but her sister is very __________",
+                            "options": [
+                                "sympathetic",
+                                "sophisticated",
+                                "complex",
+                                "attractive"
+                            ],
+                            "answer": "complex"
+                        },
+                        {
+                            "q": "This is a general notice for all passengers: the resturant in the main _________ is now open.",
+                            "options": [
+                                "concord",
+                                "conduit",
+                                "concourse",
+                                "condition"
+                            ],
+                            "answer": "concourse"
+                        },
+                        {
+                            "q": "Legal depository law applies to _______",
+                            "options": [
+                                "National libraries",
+                                "Public libraries",
+                                "Special libraries",
+                                "None of the above"
+                            ],
+                            "answer": "National libraries"
+                        },
+                        {
+                            "q": "In this question, choose the option that has a different vowel sound from the others. ",
+                            "options": [
+                                "there",
+                                "dear",
+                                "bear",
+                                "fair"
+                            ],
+                            "answer": "fair"
+                        },
+                        {
+                            "q": "Which of the following is a synonym to the word: affable.",
+                            "options": [
+                                "benign",
+                                "surly",
+                                "distant",
+                                "friendly"
+                            ],
+                            "answer": "friendly"
+                        },
+                        {
+                            "q": "If it is \"par for the course\", it is _____",
+                            "options": [
+                                "typical",
+                                "very good",
+                                "terrible",
+                                "successful"
+                            ],
+                            "answer": "typical"
+                        },
+                        {
+                            "q": "In  this question, choose the option that best completes the gap(s): He started his career as an ________ teacher.",
+                            "options": [
+                                "auxillary",
+                                "auxiliary",
+                                "auxillary",
+                                "auxiliary"
+                            ],
+                            "answer": "auxiliary"
+                        },
+                        {
+                            "q": "One of the following is not information about a book.",
+                            "options": [
+                                "Author",
+                                "Number of copies printed",
+                                "Place of publication",
+                                "none of the options"
+                            ],
+                            "answer": "Number of copies printed"
+                        },
+                        {
+                            "q": "information materials that cannot be read from cover to but are meant to be read for quick reference are:",
+                            "options": [
+                                "reference materials",
+                                "journals",
+                                "card catalogue",
+                                "none of the options"
+                            ],
+                            "answer": "reference materials"
+                        },
+                        {
+                            "q": "In this question, choose the option nearest in meaning to the word or phrase in italics: He was too 'petrified' to give the closing remarks at the conference.",
+                            "options": [
+                                "frightened",
+                                "happy",
+                                "delighted",
+                                "agitated"
+                            ],
+                            "answer": "frightened"
+                        },
+                        {
+                            "q": "In this question, fill each gap with the most appropriate option from the list provided: A __________ session of legislators took place last week.",
+                            "options": [
+                                "full",
+                                "complete",
+                                "plenary",
+                                "water-tight"
+                            ],
+                            "answer": "plenary"
+                        },
+                        {
+                            "q": "Choose the option that is opposite on meaning to the word in italic: Today's weather is 'favourable' for a game of tennis.",
+                            "options": [
+                                "clear",
+                                "impartial",
+                                "abnormal",
+                                "encouraging"
+                            ],
+                            "answer": "abnormal"
+                        },
+                        {
+                            "q": "To \"path with\" means to ____________",
+                            "options": [
+                                "be seperated from",
+                                "a selection of",
+                                "belong to",
+                                "none of the options"
+                            ],
+                            "answer": "be seperated from"
+                        },
+                        {
+                            "q": "One of the following sections is not part of the behind the scene sections of the library.",
+                            "options": [
+                                "Circulation section",
+                                "Acquisitions section",
+                                "Cataloguing section",
+                                "None of the options"
+                            ],
+                            "answer": "Circulation section"
+                        },
+                        {
+                            "q": "In the library, open access means ",
+                            "options": [
+                                "Books cannot be loaned out to users",
+                                "Books are opened and can be easily accessed by users",
+                                "The books can be read and borrowed out to users of the library",
+                                "None of the options"
+                            ],
+                            "answer": "Books are opened and can be easily accessed by users"
+                        },
+                        {
+                            "q": "The acronym OPAC means",
+                            "options": [
+                                "Online Private Activity Classification",
+                                "Online Public Access Catalogue",
+                                "Online Personal Access Catalogue",
+                                "None of the options"
+                            ],
+                            "answer": "Online Public Access Catalogue"
+                        },
+                        {
+                            "q": "The head of the University library is referred to as ____________",
+                            "options": [
+                                "the University Librarian",
+                                "the Librarian in charge",
+                                "the Chief Executive Librarian",
+                                "booker keeper"
+                            ],
+                            "answer": "the University Librarian"
+                        },
+                        {
+                            "q": "Severe storms last night together with heavy rainfall means that some of the lines of the station are now __________",
+                            "options": [
+                                "waterlogged",
+                                "waterproof",
+                                "Water soaked",
+                                "waterfall"
+                            ],
+                            "answer": "waterlogged"
+                        },
+                        {
+                            "q": "The _____________ of zip discs in the office is running dangerously low.",
+                            "options": [
+                                "share",
+                                "state",
+                                "stock",
+                                "selection"
+                            ],
+                            "answer": "stock"
+                        },
+                        {
+                            "q": "choose the option that is opposite in meaning to the word in italic: the dressmaker 'unpicked' the sea of the shirt.",
+                            "options": [
+                                "picked up",
+                                "sewed up",
+                                "threaded",
+                                "tore up"
+                            ],
+                            "answer": "sewed up"
+                        },
+                        {
+                            "q": "The train at platform 14 cannot leave because there is a power ___________ on that particular line.",
+                            "options": [
+                                "failure",
+                                "miss",
+                                "failing",
+                                "missing"
+                            ],
+                            "answer": "failure"
+                        },
+                        {
+                            "q": "To \"pack off\" means to ____________",
+                            "options": [
+                                "put away",
+                                "give away",
+                                "send away",
+                                "none of the options"
+                            ],
+                            "answer": "send away"
+                        },
+                        {
+                            "q": "The student managed to pass the entrance examination _____________ he was sick",
+                            "options": [
+                                "in spite of the fact",
+                                "because",
+                                "since",
+                                "unless"
+                            ],
+                            "answer": "in spite of the fact"
+                        },
+                        {
+                            "q": "Harauna's suggestion is completely _____________  the point and cannot be accepted",
+                            "options": [
+                                "beside",
+                                "to",
+                                "about",
+                                "on"
+                            ],
+                            "answer": "beside"
+                        },
+                        {
+                            "q": "The police are looking for the woman who farmed her children out to her neighbours.",
+                            "options": [
+                                "The police may arrest the woman for allowing her neighbours to take care of her children",
+                                "The woman may be arrested for allowing her children to be a nuisance to the neighbours.",
+                                "The police wanted the woman for allowing her children to destroy her neighbours' crops",
+                                "The woman and her children are in the habit of working in neighbours' farms and the police are not well disposed to this."
+                            ],
+                            "answer": "The police may arrest the woman for allowing her neighbours to take care of her children"
+                        },
+                        {
+                            "q": "In LC Scheme, the following alphabets are not represented.",
+                            "options": [
+                                "A, E, I, O & U",
+                                "A, B & Z",
+                                "I, O, W, X & Y",
+                                "none of the options"
+                            ],
+                            "answer": "I, O, W, X & Y"
+                        },
+                        {
+                            "q": "One of the following is not information about a book.",
+                            "options": [
+                                "Author",
+                                "Place of publication",
+                                "Number of copies printed",
+                                "none of the options"
+                            ],
+                            "answer": "Number of copies printed"
+                        },
+                        {
+                            "q": "Although he is in all respects a poor student, he has managed to buy a tape recorded to improve his ________ of french.",
+                            "options": [
+                                "mastering",
+                                "mastery",
+                                "speaking",
+                                "ideas"
+                            ],
+                            "answer": "mastery"
+                        },
+                        {
+                            "q": "Select the option that best explains the information conveyed in the sentence: you need to brush up on your spanish.",
+                            "options": [
+                                "you need to study he history of spain",
+                                "you need a brush from spain",
+                                "you need improve your spanish",
+                                "you need to leaarn to your play with a spaniard"
+                            ],
+                            "answer": "you need a brush from spain"
+                        },
+                        {
+                            "q": "The circulation section is responsible for",
+                            "options": [
+                                "Acquiring new materials",
+                                "Shelving and shelf reading",
+                                "Making available newspapers and journals to library users",
+                                "none of the options"
+                            ],
+                            "answer": "Shelving and shelf reading"
+                        },
+                        {
+                            "q": "For this question, choose from the options the word that best completes the gap: You may have the pencil, but you can't have the ballpoint __________",
+                            "options": [
+                                "either",
+                                "also",
+                                "as well",
+                                "furthermore"
+                            ],
+                            "answer": "as well"
+                        },
+                        {
+                            "q": "In this question, choose the option that best completes the gap(s): The professor of __________ medicine has _____________ the mystery of bird flu.",
+                            "options": [
+                                "Vetinary/unravelled",
+                                "Vertrinary/unraveled",
+                                "Veterinary/unravelled",
+                                "Veterinary/unraveled"
+                            ],
+                            "answer": "Veterinary/unraveled"
+                        },
+                        {
+                            "q": "______________ is the minimum number of student can borrow at once",
+                            "options": [
+                                "2",
+                                "5",
+                                "6",
+                                "4"
+                            ],
+                            "answer": "4"
+                        },
+                        {
+                            "q": "In this question, choose the option that best completes the gap(s): She was _______  the verge of tears.",
+                            "options": [
+                                "at",
+                                "with",
+                                "by",
+                                "on"
+                            ],
+                            "answer": "on"
+                        },
+                        {
+                            "q": "In this question, choose the option that best completes the gap(s): He was both a writter and a politician, but he was better ________ a singer.",
+                            "options": [
+                                "as",
+                                "to be",
+                                "as if",
+                                "like"
+                            ],
+                            "answer": "as"
+                        },
+                        {
+                            "q": "The government commended the society's __________ services to the nation.",
+                            "options": [
+                                "humanitarian",
+                                "humanist",
+                                "humanity",
+                                "humanistic"
+                            ],
+                            "answer": "humanitarian"
+                        },
+                        {
+                            "q": "__________ is a type of library.",
+                            "options": [
+                                "Special library",
+                                "Community library",
+                                "Research library",
+                                "None of the options"
+                            ],
+                            "answer": "Special library"
+                        },
+                        {
+                            "q": "Everyone's condition was 'appalling': In this question choose the option opposite in meaning to the word or phrase in italics.",
+                            "options": [
+                                "simple",
+                                "complex",
+                                "cloudy",
+                                "pleasant"
+                            ],
+                            "answer": "pleasant"
+                        },
+                        {
+                            "q": "In this question, choose the option that best completes the gap(s): His many years of success in legal practice ______ didn't come without chanllanges.",
+                            "options": [
+                                "indeed",
+                                "however",
+                                "in spite of all",
+                                "but"
+                            ],
+                            "answer": "however"
+                        },
+                        {
+                            "q": "In this question, choose the option nearest in meaning to the word or phrase in italics. There are still 'virtuous' women in our society today. ",
+                            "options": [
+                                "clever",
+                                "intelligent",
+                                "upright",
+                                "devilish"
+                            ],
+                            "answer": "upright"
+                        },
+                        {
+                            "q": "The card catalogue is in ___________ card.",
+                            "options": [
+                                "3\" x 4\"",
+                                "3\" x 3\"",
+                                "3\" x 5\"",
+                                "4\" x 6\""
+                            ],
+                            "answer": "4\" x 6\""
+                        },
+                        {
+                            "q": "By the end of this year, __________ in this town for eleven years.",
+                            "options": [
+                                "I'm living",
+                                "I'll have lived",
+                                "I'd be living",
+                                "I'll live"
+                            ],
+                            "answer": "I'll have lived"
+                        },
+                        {
+                            "q": "Choose the option that is opposite in meaning to the word in italic: As a student, Isa tried 'communal' living for a few years.",
+                            "options": [
+                                "private",
+                                "general",
+                                "collective",
+                                "shared"
+                            ],
+                            "answer": "private"
+                        },
+                        {
+                            "q": "Experience is the mother of",
+                            "options": [
+                                "patience",
+                                "wisdom",
+                                "virtue",
+                                "teacher"
+                            ],
+                            "answer": "wisdom"
+                        },
+                        {
+                            "q": "In this question, fill each gap with the most appropriateoption from the list provided: Ali plays ________ violin with remarkable skill.",
+                            "options": [
+                                "the",
+                                "their",
+                                "a",
+                                "some"
+                            ],
+                            "answer": "the"
+                        },
+                        {
+                            "q": "Although the problem was simple __________ students were able to solve it.",
+                            "options": [
+                                "little",
+                                "small",
+                                "few",
+                                "a lot of"
+                            ],
+                            "answer": "few"
+                        },
+                        {
+                            "q": "An author is ________________",
+                            "options": [
+                                "a person or corporate body mainly responsible for the creation of intellectual or artistic content of a work",
+                                "a person or corporate body mainly responsible for the organization and coordination of the business of writing books/journals.",
+                                "all of the above",
+                                "none of the above"
+                            ],
+                            "answer": "a person or corporate body mainly responsible for the creation of intellectual or artistic content of a work"
+                        },
+                        {
+                            "q": "In this question, choose the option opposite in meaning to the word or phrase in italics: One of the students bought a 'plagiarized' copy of the book.",
+                            "options": [
+                                "an original",
+                                "a revised",
+                                "an annotated",
+                                "a used"
+                            ],
+                            "answer": "an original"
+                        },
+                        {
+                            "q": "Choose from the options, the word that is most nearly opposite meaning to the underlined, and at the same time, correctly fills the gap in the sentence: Words spoken in the heat of an argument could 'offend' rather ________",
+                            "options": [
+                                "amuse",
+                                "pacify",
+                                "inspire",
+                                "irritate"
+                            ],
+                            "answer": "pacify"
+                        },
+                        {
+                            "q": "Zainab expressed her feelings in no uncertain terms. This means that ",
+                            "options": [
+                                "she expressed it feebly and sickly",
+                                "she expressed it secretly and courageously",
+                                "she expressed it quickly and cautiously",
+                                "she expressed it clearly and strongly"
+                            ],
+                            "answer": "she expressed it clearly and strongly"
+                        },
+                        {
+                            "q": "Complete the following idiomatic expression: As blind as a __________",
+                            "options": [
+                                "rat",
+                                "cat",
+                                "bat",
+                                "dog"
+                            ],
+                            "answer": "bat"
+                        },
+                        {
+                            "q": "In this question choose the option opposite in meaning to the word or phrase in italics: The Nobel laureates' activity in the field of science is 'heinous'.",
+                            "options": [
+                                "Indelible",
+                                "Deplorable",
+                                "Laudable",
+                                "Forgettable"
+                            ],
+                            "answer": "Laudable"
+                        },
+                        {
+                            "q": "Do you mind _________ another hour or two?",
+                            "options": [
+                                "to wait",
+                                "to have waited",
+                                "waiting",
+                                "wait"
+                            ],
+                            "answer": "waiting"
+                        },
+                        {
+                            "q": "In this question, choose  the option nearest in meaning to the word or phrase in italics. Alli is an 'ardent' supporter of education for the girl child.",
+                            "options": [
+                                "an optimistic",
+                                "a passionate",
+                                "a cogent",
+                                "an ignorant"
+                            ],
+                            "answer": "a passionate"
+                        },
+                        {
+                            "q": "In this question, choose the option nearest in meaning to the word or phrase in italics: It is a 'misnomer' to call three thousand naira a living wage.",
+                            "options": [
+                                "incontrovertible assertion",
+                                "appropriate term",
+                                "mishmash",
+                                "wrong description"
+                            ],
+                            "answer": "wrong description"
+                        },
+                        {
+                            "q": "The students had a _______ on Independence day.",
+                            "options": [
+                                "march pass",
+                                "match pass",
+                                "match past",
+                                "march past"
+                            ],
+                            "answer": "march past"
+                        },
+                        {
+                            "q": "There are lots of _________ in the park. ",
+                            "options": [
+                                "luxury buses moving fast",
+                                "luxury buses fast moving",
+                                "fast-moving luxury buses",
+                                "moving fast luxury buses"
+                            ],
+                            "answer": "fast-moving luxury buses"
+                        },
+                        {
+                            "q": "In this question, choose the option nearest in meaning to the word or phrase in italics: His story gave us 'linking' of what he passed through during the strike.",
+                            "options": [
+                                "a possible idea",
+                                "the right view",
+                                "a taste",
+                                "a summary"
+                            ],
+                            "answer": "a possible idea"
+                        },
+                        {
+                            "q": "Information materials that cannot be read from cover to cover but are meant to be read for quick reference are:",
+                            "options": [
+                                "refernce materials",
+                                "journals",
+                                "card catalogue",
+                                "none of the options"
+                            ],
+                            "answer": "refernce materials"
+                        },
+                        {
+                            "q": "Any folded sheet of paper sewn or stapled together, enclosed within a protective cover and numbering at least forty-nine pages is a _______________",
+                            "options": [
+                                "constant",
+                                "irregular",
+                                "planned",
+                                "unusual"
+                            ],
+                            "answer": "constant"
+                        },
+                        {
+                            "q": "I don't think i will beat him. I am out of ______________",
+                            "options": [
+                                "practice",
+                                "game",
+                                "play",
+                                "fitness"
+                            ],
+                            "answer": "fitness"
+                        },
+                        {
+                            "q": "In this question, choose the option nearest in meaning to the word or phrase in italics: Okadigbo manages his household with a 'heavy hand'.",
+                            "options": [
+                                "like a powerful dictator",
+                                "using cane on every occasion",
+                                "like a heavy weight champion",
+                                "without tolerating weakness"
+                            ],
+                            "answer": "like a powerful dictator"
+                        },
+                        {
+                            "q": "In this question, fill each gap with the most appropriate option from the list provided: The candidate's charisma should be a __________ factor in winning the election. ",
+                            "options": [
+                                "determining",
+                                "determinable",
+                                "determinant",
+                                "determinate"
+                            ],
+                            "answer": "determining"
+                        },
+                        {
+                            "q": "The author/editor, series, title and subject are ___________",
+                            "options": [
+                                "assess points to a document",
+                                "access points to a document",
+                                "classification points to a document",
+                                "none of the options"
+                            ],
+                            "answer": "access points to a document"
+                        },
+                        {
+                            "q": "_______________ is the minimum number of books that a student can borrow at once.",
+                            "options": [
+                                "2",
+                                "5",
+                                "4",
+                                "6"
+                            ],
+                            "answer": "4"
+                        },
+                        {
+                            "q": "Bibliotheque Nationale, British and library of congress are examples of prominent libraries established by _______________",
+                            "options": [
+                                "National governments",
+                                "ECOWAS",
+                                "European Union",
+                                "None of the options"
+                            ],
+                            "answer": "National governments"
+                        },
+                        {
+                            "q": "In this question, choose the option nearest in meaning to the word or phrase in italics: The student's union leader delivered his speech 'extempore'. ",
+                            "options": [
+                                "out-of-hand",
+                                "courageously",
+                                "off the cuff",
+                                "accurately"
+                            ],
+                            "answer": "off the cuff"
+                        },
+                        {
+                            "q": "Et. al is used to acknowledge a book written by ____________",
+                            "options": [
+                                "two authors and above",
+                                "three authors and above",
+                                "four authors and above",
+                                "below four authors"
+                            ],
+                            "answer": "four authors and above"
+                        },
+                        {
+                            "q": "Give the meaning of idiomatic expression: To \"eke out\" means ________",
+                            "options": [
+                                "to rush out",
+                                "to do with difficulty",
+                                "to make easily",
+                                "none of the options"
+                            ],
+                            "answer": "to do with difficulty"
+                        },
+                        {
+                            "q": "If any information resources has more than three authors, only the first author is acknowledged.",
+                            "options": [
+                                "True",
+                                "False",
+                                "None of the options",
+                                "All the options"
+                            ],
+                            "answer": "True"
+                        },
+                        {
+                            "q": "Shirley gave a 'curl' nod and walked away. In this question, choose the option opposite to the word or phrase in italics.",
+                            "options": [
+                                "Gentle",
+                                "polite",
+                                "Rude",
+                                "Shocking"
+                            ],
+                            "answer": "polite"
+                        },
+                        {
+                            "q": "The volume and issue is part of information found in a ________________",
+                            "options": [
+                                "journal",
+                                "book",
+                                "catalogue card",
+                                "none of the options"
+                            ],
+                            "answer": "journal"
+                        },
+                        {
+                            "q": "Unfortunately, it is now 11.00 O'clock and so there is a ______________ of 15 minutes already. ",
+                            "options": [
+                                "waiting",
+                                "lateness",
+                                "space",
+                                "delay"
+                            ],
+                            "answer": "delay"
+                        },
+                        {
+                            "q": "The appendix, references and and questionnaire appear at the __________ of a book.",
+                            "options": [
+                                "beginning of a book",
+                                "middle of a book",
+                                "end of a book",
+                                "none of the options"
+                            ],
+                            "answer": "end of a book"
+                        },
+                        {
+                            "q": "What is the nearest in meaning to the underlined word in the sentence: the journalist refused to 'divulge' the source of his information.",
+                            "options": [
+                                "confirm",
+                                "disclose",
+                                "affirm",
+                                "inform"
+                            ],
+                            "answer": "disclose"
+                        },
+                        {
+                            "q": "In this question, choose the option opposite in meaning to the word or phrase in italics: Her findings 'exploded' widely held beliefs about learning.",
+                            "options": [
+                                "chanllenged",
+                                "confirmed",
+                                "debunked",
+                                "projected"
+                            ],
+                            "answer": "debunked"
+                        },
+                        {
+                            "q": "The author/editor, series, title and subject are ___________",
+                            "options": [
+                                "assess points to a document",
+                                "access points to a document",
+                                "classificatiom points to a documents",
+                                "none of the options"
+                            ],
+                            "answer": "access points to a document"
+                        },
+                        {
+                            "q": "Choose the word that is nearest in meaning to the underlined word: Don't eat just any 'innocuous' looking mushroom you see around.",
+                            "options": [
+                                "harmful",
+                                "harmless",
+                                "innocent",
+                                "immunized"
+                            ],
+                            "answer": "harmless"
+                        },
+                        {
+                            "q": "The mary possesses complete technical ______________ her musical instrument. ",
+                            "options": [
+                                "mastery of",
+                                "mastery in",
+                                "mastery on",
+                                "mastery"
+                            ],
+                            "answer": "mastery of"
+                        },
+                        {
+                            "q": "One of the following is not a classification scheme",
+                            "options": [
+                                "University of Benin Classification Scheme",
+                                "Library of Congress Classification Scheme",
+                                "Universal Decimal Classification Scheme",
+                                "None of the options"
+                            ],
+                            "answer": "University of Benin Classification Scheme"
+                        },
+                        {
+                            "q": "the catalogue card helps to __________",
+                            "options": [
+                                "locate books on the shelf",
+                                "acquire new materials",
+                                "organize and classify information materials",
+                                "none of the options"
+                            ],
+                            "answer": "locate books on the shelf"
+                        },
+                        {
+                            "q": "the acronym ISBN stands for _________",
+                            "options": [
+                                "International Serial Book Number",
+                                "International Standard Book Number",
+                                "International Serial Bibliographic Number",
+                                "none of the above"
+                            ],
+                            "answer": "International Standard Book Number"
+                        },
+                        {
+                            "q": "In this question, choose the option opposite in meaning to the word or phrase in italics: After the war, the victors became increasingly 'vindictive'. ",
+                            "options": [
+                                "friendly",
+                                "arrogant",
+                                "treacherous",
+                                "vocferous"
+                            ],
+                            "answer": "friendly"
+                        },
+                        {
+                            "q": "choose the word that is a synonym to word: placid",
+                            "options": [
+                                "Calm",
+                                "impulsive",
+                                "excitable",
+                                "agitate"
+                            ],
+                            "answer": "Calm"
+                        },
+                        {
+                            "q": "in this question, choose the option opposite in meaning to the word or phrase in italics: The injured man is determined to 'get back' at his assailant.",
+                            "options": [
+                                "attack",
+                                "forgive",
+                                "visit",
+                                "identity"
+                            ],
+                            "answer": "forgive"
+                        },
+                        {
+                            "q": "In the library, open access means ",
+                            "options": [
+                                "Books cannot be loaned out to users",
+                                "books are opened and can be easily accessed by users",
+                                "The books can be read and borrowed out to users of the library",
+                                "None of the above"
+                            ],
+                            "answer": "books are opened and can be easily accessed by users"
+                        },
+                        {
+                            "q": "In this question, choose the option that best completes the gap(s): _____________ she didn't trust him, she married him",
+                            "options": [
+                                "Since",
+                                "Though",
+                                "After",
+                                "Much as"
+                            ],
+                            "answer": "Though"
+                        },
+                        {
+                            "q": "The boy _______ his father in everything.",
+                            "options": [
+                                "makes after",
+                                "makes for",
+                                "takes after",
+                                "takes for"
+                            ],
+                            "answer": "takes after"
+                        },
+                        {
+                            "q": "Choose the nearest in meaning to the word or phrase in italics: All the candidates looked 'aghast' at the first reading of the questions.",
+                            "options": [
+                                "satisfied",
+                                "fulfied",
+                                "again",
+                                "shocked"
+                            ],
+                            "answer": "shocked"
+                        },
+                        {
+                            "q": "the circulation section is responsible for.",
+                            "options": [
+                                "Acquiring new materials",
+                                "Shelving and shelf reading",
+                                "making available newspapers and journals to library users.",
+                                "none of the options"
+                            ],
+                            "answer": "Shelving and shelf reading"
+                        },
+                        {
+                            "q": "The chief administrative officer disliked lack of attention to detail and insisted that such mistakes should never ____________",
+                            "options": [
+                                "recur",
+                                "repeat",
+                                "retake",
+                                "refer"
+                            ],
+                            "answer": "recur"
+                        },
+                        {
+                            "q": "\"to go like clockwork\" means to.",
+                            "options": [
+                                "run smoothly",
+                                "go crazy",
+                                "cost a lot of money",
+                                "to walk like a clock"
+                            ],
+                            "answer": "run smoothly"
+                        }
+                    ]
                 }
             ]
         },
@@ -5859,6 +6815,992 @@
                             "answer": "sudan savanna"
                         }
                     ]
+                },
+                {
+                    "questions": [
+                        {
+                            "q": "Since the result of physical anthropology is more generalized, the value of physical anthropology to history is _____________ ",
+                            "options": [
+                                "Limited",
+                                "Theoretical",
+                                "Hypothetical",
+                                "Racial"
+                            ],
+                            "answer": "Limited"
+                        },
+                        {
+                            "q": "The pre-colonial history of the people of southern Nigeria witnessed a major developments in the history of the people",
+                            "options": [
+                                "Setback",
+                                "Growth",
+                                "Shift",
+                                "Epochal"
+                            ],
+                            "answer": "Epochal"
+                        },
+                        {
+                            "q": "The major empire that emerged in the pre-colonial history of the peoples of Southern Nigeria include all the following except",
+                            "options": [
+                                "Oyo",
+                                "Calabar",
+                                "benin",
+                                "Igbo"
+                            ],
+                            "answer": "Calabar"
+                        },
+                        {
+                            "q": "The pre-colonial history of the peoples Southern Nigeria witnessed major social, political and economic __________ betweeen the peoples.",
+                            "options": [
+                                "War",
+                                "Crisis",
+                                "Relations",
+                                "Satisfaction"
+                            ],
+                            "answer": "Relations"
+                        },
+                        {
+                            "q": "The Hermits were ________ Europeans.",
+                            "options": [
+                                "Pastoral",
+                                "Caste",
+                                "White",
+                                "Blonde"
+                            ],
+                            "answer": "Pastoral"
+                        },
+                        {
+                            "q": "Jihad was declared in hause land in what year?",
+                            "options": [
+                                "1875",
+                                "1700",
+                                "1853",
+                                "1804"
+                            ],
+                            "answer": "1804"
+                        },
+                        {
+                            "q": "Who led a jihad against hause kings in the pre-colonial hause society?",
+                            "options": [
+                                "Sarki Yari",
+                                "Usman Dan Fodio",
+                                "Sarki Yau",
+                                "Baiyayida"
+                            ],
+                            "answer": "Usman Dan Fodio"
+                        },
+                        {
+                            "q": "The Kings of hause land prior to the jihad were known as",
+                            "options": [
+                                "Habe",
+                                "Bokwoi",
+                                "Yari",
+                                "Galadima"
+                            ],
+                            "answer": "Habe"
+                        },
+                        {
+                            "q": "A war declared by islamic puritans against 'pagan' societies is known as ",
+                            "options": [
+                                "Holy war",
+                                "Revolution",
+                                "Revivalism",
+                                "jihad"
+                            ],
+                            "answer": "jihad"
+                        },
+                        {
+                            "q": "Dar-islam means",
+                            "options": [
+                                "Islamization",
+                                "Un-islamic",
+                                "Islamic Society",
+                                "Islamic Ideas"
+                            ],
+                            "answer": "Islamic Society"
+                        },
+                        {
+                            "q": "In Yoruba, the word 'Oye' represents",
+                            "options": [
+                                "Mere Mortals",
+                                "Immortals",
+                                "Mortals",
+                                "Spirit Beings"
+                            ],
+                            "answer": "Immortals"
+                        },
+                        {
+                            "q": "According to the book, 'Nigerian peoples and culture' the land in which the yoruba finally settled is called",
+                            "options": [
+                                "Oramfe",
+                                "Oyo",
+                                "Gobir",
+                                "Ile Ife"
+                            ],
+                            "answer": "Ile Ife"
+                        },
+                        {
+                            "q": "One kingdom that eventually emerged into an empire in Yoruba was ",
+                            "options": [
+                                "Oyo",
+                                "ife",
+                                "Egbaland",
+                                "Ibadan"
+                            ],
+                            "answer": "Oyo"
+                        },
+                        {
+                            "q": "in one of the Yoruba legends, the site in which the founders of the Yoruba landed in Nigeria from the sky is traditionally known as ",
+                            "options": [
+                                "Oye",
+                                "Ile Ife",
+                                "Oke Oramfe",
+                                "Oyo"
+                            ],
+                            "answer": "Oke Oramfe"
+                        },
+                        {
+                            "q": "The Oyo empire emerged in the middle of the _________ century",
+                            "options": [
+                                "16th",
+                                "15th",
+                                "13th",
+                                "14th"
+                            ],
+                            "answer": "15th"
+                        },
+                        {
+                            "q": "In Yoruba, the word 'Oye' represents",
+                            "options": [
+                                "Mere Mortals",
+                                "Immortals",
+                                "Mortals",
+                                "Spirit Beings"
+                            ],
+                            "answer": "Immortals"
+                        },
+                        {
+                            "q": "According to the book 'Nigerian people and Culture' the land in which the yoruba was ",
+                            "options": [
+                                "Oramfe",
+                                "Oyo",
+                                "Gobir",
+                                "Ile Ife"
+                            ],
+                            "answer": "Ile Ife"
+                        },
+                        {
+                            "q": "One kingdom that eventually emerged into an empire in Yoruba was ",
+                            "options": [
+                                "Oyo",
+                                "ife",
+                                "Egbaland",
+                                "Ibadan"
+                            ],
+                            "answer": "Oyo"
+                        },
+                        {
+                            "q": "in one of the Yoruba legends, the site in which the founders of the Yoruba landed in Nigeria from the sky is traditionally known as ",
+                            "options": [
+                                "Oye",
+                                "Ile Ife",
+                                "Oke Oramfe",
+                                "Oyo"
+                            ],
+                            "answer": "Oke Oramfe"
+                        },
+                        {
+                            "q": "The people of Ife developed a civilization which dates back to about which century? ",
+                            "options": [
+                                "9th",
+                                "10th",
+                                "6th",
+                                "5th"
+                            ],
+                            "answer": "6th"
+                        },
+                        {
+                            "q": "The effect of climate change is the perpetuation of hunger and poverty in ",
+                            "options": [
+                                "Africa",
+                                "Scandinavian",
+                                "Australasia",
+                                "Middle East"
+                            ],
+                            "answer": "Africa"
+                        },
+                        {
+                            "q": "Ozone exist in the greatest concentration in the ______________ ",
+                            "options": [
+                                "Atmosphere",
+                                "Environment",
+                                "Stratosphere",
+                                "Society"
+                            ],
+                            "answer": "Stratosphere"
+                        },
+                        {
+                            "q": "The Ozone is how many kilometers above the earth surface?",
+                            "options": [
+                                "10-15km",
+                                "15-40km",
+                                "41-53km",
+                                "5-10km"
+                            ],
+                            "answer": "15-40km"
+                        },
+                        {
+                            "q": "Chlorofluorocarbon (CFC) is used for all the following except one",
+                            "options": [
+                                "Refrigerators",
+                                "Foaming Agents",
+                                "Aerosols",
+                                "Manure"
+                            ],
+                            "answer": "Manure"
+                        },
+                        {
+                            "q": "Ozone serves as a __________ which protects the earth from the dangerous ultraviolet radiation",
+                            "options": [
+                                "Flaslight",
+                                "Shield",
+                                "Flash of Pan",
+                                "cover"
+                            ],
+                            "answer": "Shield"
+                        },
+                        {
+                            "q": "Jihad was declared in Hause land in what yea?",
+                            "options": [
+                                "1804",
+                                "1875",
+                                "1853",
+                                "1700"
+                            ],
+                            "answer": "1804"
+                        },
+                        {
+                            "q": "The Kings of Hause land prior to the jihad were known as",
+                            "options": [
+                                "Bokwoi",
+                                "Habe",
+                                "Yari",
+                                "Galadima"
+                            ],
+                            "answer": "Habe"
+                        },
+                        {
+                            "q": "A war declared by Islami puritans against 'pagan' societies is known as ",
+                            "options": [
+                                "Holy War",
+                                "Revolution",
+                                "Jihad",
+                                "Revivalism"
+                            ],
+                            "answer": "Jihad"
+                        },
+                        {
+                            "q": "The early European contacts with people of latter day Nigeria was inspired by",
+                            "options": [
+                                "Trade and Commerce",
+                                "Religion and Commerce",
+                                "Cultural Exchange",
+                                "Slave and Papper Trade"
+                            ],
+                            "answer": "Religion and Commerce"
+                        },
+                        {
+                            "q": "The Trans-Atlantic Slave Trade begin from which century?",
+                            "options": [
+                                "13th",
+                                "10th",
+                                "11th",
+                                "16th"
+                            ],
+                            "answer": "16th"
+                        },
+                        {
+                            "q": "The Trans-Atlantic Slave Trade lasted for close to how many years?",
+                            "options": [
+                                "300",
+                                "500",
+                                "200",
+                                "100"
+                            ],
+                            "answer": "300"
+                        },
+                        {
+                            "q": "The New World is the present day",
+                            "options": [
+                                "Britain",
+                                "Germany",
+                                "America",
+                                "France"
+                            ],
+                            "answer": "America"
+                        },
+                        {
+                            "q": "The British first annexed a territory in Nigeria in what year?",
+                            "options": [
+                                "1903",
+                                "1861",
+                                "1925",
+                                "1888"
+                            ],
+                            "answer": "1861"
+                        },
+                        {
+                            "q": "In the ancient Benin Kingdom, the Oba of Benin gave permission to a group of people to set up a church in the place. who were those people.",
+                            "options": [
+                                "Catholic priests",
+                                "Anglican priests",
+                                "Tourists",
+                                "Methodist priest"
+                            ],
+                            "answer": "Catholic priests"
+                        },
+                        {
+                            "q": "Which church first established a seminary in an island off the Coast of Nigeria?",
+                            "options": [
+                                "Pentecostal church",
+                                "Angelican church",
+                                "Catholic church",
+                                "Methodist church"
+                            ],
+                            "answer": "Catholic church"
+                        },
+                        {
+                            "q": "The first seminary established off the coast of Nigeria was established in what year?",
+                            "options": [
+                                "1530",
+                                "1571",
+                                "1545",
+                                "1650"
+                            ],
+                            "answer": "1571"
+                        },
+                        {
+                            "q": "According to history. the beads worn by the Oba Benin and prominent Benin chiefs were introduced by the",
+                            "options": [
+                                "Germans",
+                                "British",
+                                "Portuguese",
+                                "French"
+                            ],
+                            "answer": "Portuguese"
+                        },
+                        {
+                            "q": "How many years would an individual at least lived in America before he can become a citizen?",
+                            "options": [
+                                "25",
+                                "5",
+                                "12",
+                                "20"
+                            ],
+                            "answer": "5"
+                        },
+                        {
+                            "q": "The generality of privileges and rights bestowed on members of a nation is called",
+                            "options": [
+                                "Human right",
+                                "Citizenship",
+                                "Fundamental freedom",
+                                "Right of Franchise"
+                            ],
+                            "answer": "Citizenship"
+                        },
+                        {
+                            "q": "The Urhobo people trace their origin to Benin immigrants and ___________ group ",
+                            "options": [
+                                "Ukpenu",
+                                "Itsekiri",
+                                "Ijaw",
+                                "Ikwerre"
+                            ],
+                            "answer": "Ijaw"
+                        },
+                        {
+                            "q": "The Urhobo of Ughelli, Oghara and Ogo trace their origin to _________",
+                            "options": [
+                                "Ijaw Group",
+                                "Sapele",
+                                "Udu",
+                                "Ekpon"
+                            ],
+                            "answer": "Ijaw Group"
+                        },
+                        {
+                            "q": "Pollution emanting from heat is called",
+                            "options": [
+                                "industrial pollution",
+                                "Thermal pollution",
+                                "Heat pollution",
+                                "Sun pollution"
+                            ],
+                            "answer": "Thermal pollution"
+                        },
+                        {
+                            "q": "In 1962, Parrinder observed that everything that concerns the family, its health and fertility are of interest to",
+                            "options": [
+                                "Ancestors",
+                                "Faith",
+                                "Religion",
+                                "Tradition"
+                            ],
+                            "answer": "Ancestors"
+                        },
+                        {
+                            "q": "in African traditional society, it is believed that ______________ acquired special knowledge in the spirit world",
+                            "options": [
+                                "Spirit",
+                                "Ancestors",
+                                "Forefathers",
+                                "The Dead"
+                            ],
+                            "answer": "Ancestors"
+                        },
+                        {
+                            "q": "____________ contributed to ancestral worship in African societies",
+                            "options": [
+                                "Belief System",
+                                "African Culture",
+                                "Tradition",
+                                "Agrarian Nature"
+                            ],
+                            "answer": "Agrarian Nature"
+                        },
+                        {
+                            "q": "In African societies, it is believed that ________________ fertilized the earth and promoted the growth of crops",
+                            "options": [
+                                "gods",
+                                "Tradition",
+                                "Culture",
+                                "Ancestors"
+                            ],
+                            "answer": "Ancestors"
+                        },
+                        {
+                            "q": "The Hermits were better armed as well as quicker witted than the dark agricultural __________",
+                            "options": [
+                                "Fulbe",
+                                "Hoodoo",
+                                "Negroes",
+                                "Slaves"
+                            ],
+                            "answer": "Negroes"
+                        },
+                        {
+                            "q": "The Hermitic racist view of Africa was first propagated by the early _________ that visited the continent ",
+                            "options": [
+                                "Men",
+                                "Arabs",
+                                "Europeans",
+                                "Chinese"
+                            ],
+                            "answer": "Europeans"
+                        },
+                        {
+                            "q": "One of these civilization was fouund by the Europeans in Egypt ___________",
+                            "options": [
+                                "Statue",
+                                "Pyramids",
+                                "Strong Military",
+                                "Castles"
+                            ],
+                            "answer": "Pyramids"
+                        },
+                        {
+                            "q": "One of these civilization was fouund by the Europeans in Zimbabwe",
+                            "options": [
+                                "Consortium",
+                                "Pyramids",
+                                "Castles",
+                                "Great Wall"
+                            ],
+                            "answer": "Great Wall"
+                        },
+                        {
+                            "q": "The early Europeans were so amazed by the massive and spectacular development that took place in the continent that they felt that the development could not have been invented by _____________",
+                            "options": [
+                                "Hermits",
+                                "Africans",
+                                "Arabs",
+                                "Europeans"
+                            ],
+                            "answer": "Africans"
+                        },
+                        {
+                            "q": "Which conference shared African countries among the powers of Europe?",
+                            "options": [
+                                "Concert of Europe",
+                                "Berlin Conference",
+                                "League of Emperors",
+                                "Stessa Conference"
+                            ],
+                            "answer": "Berlin Conference"
+                        },
+                        {
+                            "q": "The conference which led to the sharing of African countries between the powers of the time took place in what year? ",
+                            "options": [
+                                "1884-1885",
+                                "1777-1778",
+                                "1874-1875",
+                                "1759-1760"
+                            ],
+                            "answer": "1884-1885"
+                        },
+                        {
+                            "q": "Nigeria became a British territory after the",
+                            "options": [
+                                "League of Emperors",
+                                "Versailles Treaty",
+                                "French Revolution",
+                                "Berlin Conference"
+                            ],
+                            "answer": "Berlin Conference"
+                        },
+                        {
+                            "q": "Europe first had contact with some people of latter day Nigeria in the early",
+                            "options": [
+                                "15th century",
+                                "11th century",
+                                "16th century",
+                                "14th century"
+                            ],
+                            "answer": "15th century"
+                        },
+                        {
+                            "q": "Traditions have it that Oyo was founded by",
+                            "options": [
+                                "Oranmiyan",
+                                "Oduduwa",
+                                "Alafin",
+                                "Kakanfo"
+                            ],
+                            "answer": "Oranmiyan"
+                        },
+                        {
+                            "q": "Who was the father of Oranmiyan?",
+                            "options": [
+                                "Oduduwa",
+                                "Alafin of Oyo",
+                                "Alake of Egbaland",
+                                "Oba of Benin"
+                            ],
+                            "answer": "Oduduwa"
+                        },
+                        {
+                            "q": "Who was credited to have established the present Benin Monarchy?",
+                            "options": [
+                                "Ozolua",
+                                "oranmiyan",
+                                "Esigie",
+                                "Eweka"
+                            ],
+                            "answer": "oranmiyan"
+                        },
+                        {
+                            "q": "The Oyo empire is headed by",
+                            "options": [
+                                "Alafin",
+                                "Alake",
+                                "Olubadan",
+                                "Akiolu"
+                            ],
+                            "answer": "Alafin"
+                        },
+                        {
+                            "q": "In the ols Oyo empire, the Alafin was regarded as ",
+                            "options": [
+                                "King of Kings",
+                                "Lord of many Lands",
+                                "Lord of Lords",
+                                "indomitable"
+                            ],
+                            "answer": "Lord of many Lands"
+                        },
+                        {
+                            "q": "The first Ogiso in Benin kingdom is known as",
+                            "options": [
+                                "Igbodo",
+                                "Erie",
+                                "Orire",
+                                "Iwodo"
+                            ],
+                            "answer": "Igbodo"
+                        },
+                        {
+                            "q": "the wood workers in Benin Kingdom is known as",
+                            "options": [
+                                "Okaeran",
+                                "Omahe",
+                                "Owina",
+                                "Igbesanmwan"
+                            ],
+                            "answer": "Owina"
+                        },
+                        {
+                            "q": "The carvers in Benin Kingdom is known as",
+                            "options": [
+                                "Owina",
+                                "Asoro",
+                                "Igbesanmwan",
+                                "Okaeran"
+                            ],
+                            "answer": "Igbesanmwan"
+                        },
+                        {
+                            "q": "The leader workers in Benin Kingdom is known as",
+                            "options": [
+                                "Okaeran",
+                                "Oloton",
+                                "Olotu",
+                                "Esohian"
+                            ],
+                            "answer": "Esohian"
+                        },
+                        {
+                            "q": "In Benin kingdom hunters referred to ",
+                            "options": [
+                                "Ohue",
+                                "Ogbeni",
+                                "Ogbemwin",
+                                "Abe"
+                            ],
+                            "answer": "Ohue"
+                        },
+                        {
+                            "q": "The radiation which the Ozone protect the earth from is caused by",
+                            "options": [
+                                "Sun",
+                                "Heavy Rainfall",
+                                "Earthquake",
+                                "Thunder"
+                            ],
+                            "answer": "Sun"
+                        },
+                        {
+                            "q": "Ultraviolet rays can cause",
+                            "options": [
+                                "Blood Clothing",
+                                "Fibroid",
+                                "Eye Cancer",
+                                "Skin Cancer"
+                            ],
+                            "answer": "Skin Cancer"
+                        },
+                        {
+                            "q": "Acid rain has effect on",
+                            "options": [
+                                "Water",
+                                "Earth",
+                                "Environment",
+                                "Human"
+                            ],
+                            "answer": "Water"
+                        },
+                        {
+                            "q": "Aquatic is another name for",
+                            "options": [
+                                "Water",
+                                "Environment",
+                                "Air",
+                                "Sun"
+                            ],
+                            "answer": "Water"
+                        },
+                        {
+                            "q": "The Green Revolution was a programme that was introduced to highlight the importance of",
+                            "options": [
+                                "Health",
+                                "Defense",
+                                "Education",
+                                "Agriculture"
+                            ],
+                            "answer": "Agriculture"
+                        },
+                        {
+                            "q": "The fulani jihad led to the establishment of how many caliphates in Hause land?",
+                            "options": [
+                                "Three",
+                                "Five",
+                                "Four",
+                                "Two"
+                            ],
+                            "answer": "Two"
+                        },
+                        {
+                            "q": "The sokoto caliphate has its headquarter in ",
+                            "options": [
+                                "Daura",
+                                "Zaria",
+                                "Sokoto",
+                                "Bokwoi"
+                            ],
+                            "answer": "Sokoto"
+                        },
+                        {
+                            "q": "One of these is a part of the caliphate established after the jihad",
+                            "options": [
+                                "Borno",
+                                "Gwandu",
+                                "Daura",
+                                "Zaria"
+                            ],
+                            "answer": "Gwandu"
+                        },
+                        {
+                            "q": "The only ethnic group without a distinct territory of their own is ",
+                            "options": [
+                                "Fulani",
+                                "Ijaw",
+                                "Fulfude",
+                                "Ibiam"
+                            ],
+                            "answer": "Fulani"
+                        },
+                        {
+                            "q": "The fulani are sometimes referred to as ",
+                            "options": [
+                                "Fulfude",
+                                "Fulbe",
+                                "Aboki",
+                                "Hausa/Fulani"
+                            ],
+                            "answer": "Fulbe"
+                        },
+                        {
+                            "q": "Which territory was first annexed in present day Nigeria?",
+                            "options": [
+                                "Fulbe",
+                                "Benin",
+                                "calabar",
+                                "Ife"
+                            ],
+                            "answer": "Fulbe"
+                        },
+                        {
+                            "q": "The Nigerian territory that was annexed was made a ",
+                            "options": [
+                                "State",
+                                "Sovereign State",
+                                "colony",
+                                "protectorate"
+                            ],
+                            "answer": "colony"
+                        },
+                        {
+                            "q": "One of the following Nigeria rulers was not among those that resisted British usurpation",
+                            "options": [
+                                "Oba Ovonramwen of Benin",
+                                "Emir of Gwandu",
+                                "Jaja of Opobo",
+                                "Nana of Itsekiri"
+                            ],
+                            "answer": "Emir of Gwandu"
+                        },
+                        {
+                            "q": "The British colonial office took over the responsibility of all Nigeria in what year?",
+                            "options": [
+                                "1861",
+                                "1900",
+                                "1904",
+                                "1919"
+                            ],
+                            "answer": "1900"
+                        },
+                        {
+                            "q": "The amalgamation of Lagos colony with the protectorate of Southern Nigeria took place in what year?",
+                            "options": [
+                                "May 1905",
+                                "July 1906",
+                                "June 1906",
+                                "May 1906"
+                            ],
+                            "answer": "May 1906"
+                        },
+                        {
+                            "q": "The dress of the cathodic priests is known as",
+                            "options": [
+                                "Casserole",
+                                "Casor",
+                                "Cassock",
+                                "Cursor"
+                            ],
+                            "answer": "Cassock"
+                        },
+                        {
+                            "q": "Slave trade was abolished in what year?",
+                            "options": [
+                                "1807",
+                                "1767",
+                                "1804",
+                                "1750"
+                            ],
+                            "answer": "1804"
+                        },
+                        {
+                            "q": "After the abolition of slave trade, the recaptured slave ships were discharged in a place called",
+                            "options": [
+                                "Sierra Leone",
+                                "Freedom town",
+                                "Slave Town",
+                                "Freetown"
+                            ],
+                            "answer": "Freetown"
+                        },
+                        {
+                            "q": "The base were recaptured slaves were discharged was established in what year?",
+                            "options": [
+                                "1650",
+                                "1787",
+                                "1756",
+                                "1805"
+                            ],
+                            "answer": "1787"
+                        },
+                        {
+                            "q": "Which country fought for the abolition of slave trade?",
+                            "options": [
+                                "Portugal",
+                                "France",
+                                "Italy",
+                                "Britain"
+                            ],
+                            "answer": "Britain"
+                        },
+                        {
+                            "q": "As a form of motivation, the federal government promise an award of __________ to the second cleanest state capital",
+                            "options": [
+                                "#600,000",
+                                "#500,000",
+                                "#400,000",
+                                "#1 Million"
+                            ],
+                            "answer": "#600,000"
+                        },
+                        {
+                            "q": "As a form of motivation, the federal government promise an award of __________ to the third cleanest state capital",
+                            "options": [
+                                "#400,000",
+                                "#200,000",
+                                "#300,000",
+                                "#500,000"
+                            ],
+                            "answer": "#400,000"
+                        },
+                        {
+                            "q": "The use of constituted task force and local government area sanitation authority is ineffective because offenders are arraigned only on __________ days",
+                            "options": [
+                                "Working",
+                                "Week",
+                                "Court Sitting days",
+                                "Sanitation"
+                            ],
+                            "answer": "Sanitation"
+                        },
+                        {
+                            "q": "Awareness on environmental sanitation and cleanliness can take the following forms except ",
+                            "options": [
+                                "Experience",
+                                "Message",
+                                "Learning",
+                                "Environmental Campaigns"
+                            ],
+                            "answer": "Message"
+                        },
+                        {
+                            "q": "Alafiin in the old Oyo empire was regarded as ",
+                            "options": [
+                                "God on Earth",
+                                "Lord of many lands",
+                                "Man of war",
+                                "Almighty of the Mighties"
+                            ],
+                            "answer": "Man of war"
+                        },
+                        {
+                            "q": "The Urhobo group is fragmented and based in different locations in the ___________",
+                            "options": [
+                                "World",
+                                "Niger Delta",
+                                "South-South",
+                                "Nigeria"
+                            ],
+                            "answer": "Niger Delta"
+                        },
+                        {
+                            "q": "the adult male members of Urhobo society were divided into _________ sets",
+                            "options": [
+                                "Age",
+                                "Gender",
+                                "Male and Female",
+                                "Three"
+                            ],
+                            "answer": "Age"
+                        },
+                        {
+                            "q": "The age grade in traditional Urhobo society comprised of youth, middle age and _____________",
+                            "options": [
+                                "Adults",
+                                "Infants",
+                                "Children",
+                                "Elders"
+                            ],
+                            "answer": "Elders"
+                        },
+                        {
+                            "q": "Each village in traditional Urhobo society is headed by a ruler called __________",
+                            "options": [
+                                "Ekpoki",
+                                "Nana",
+                                "Ovie",
+                                "Ogidi"
+                            ],
+                            "answer": "Ovie"
+                        },
+                        {
+                            "q": "The difference between the value of merchandise or visible exports and the value of merchandise or visible imports is known as",
+                            "options": [
+                                "Balance of trade",
+                                "Import Distribution",
+                                "Equitable Distribution",
+                                "Export Promotion"
+                            ],
+                            "answer": "Balance of trade"
+                        },
+                        {
+                            "q": "A nation's determination to rely on the utilization of domestic resources to produce most its required goods and services, is referred to as ",
+                            "options": [
+                                "Balance of Payment",
+                                "Balance of Trade",
+                                "Self-Reliance",
+                                "Foreign Trade"
+                            ],
+                            "answer": "Self-Reliance"
+                        },
+                        {
+                            "q": "Who was the Governor of western Nigeria that ws killed alongside the Head of State during the counter-coup in Nigeria?",
+                            "options": [
+                                "Adekunle Fajuyi",
+                                "Aguiyi Ironsi",
+                                "Adekunle Fadipe",
+                                "Olomntoba Dagunduro"
+                            ],
+                            "answer": "Adekunle Fajuyi"
+                        },
+                        {
+                            "q": "The Structural Adjustment Programme (SAP) in Nigeria was introduced in what year?",
+                            "options": [
+                                "1973",
+                                "1965",
+                                "1986",
+                                "1990"
+                            ],
+                            "answer": "1986"
+                        }
+                    ],
+                    "year": "2017",
+                    "total": "100"
                 },
                 {
                     "year": "2018",
