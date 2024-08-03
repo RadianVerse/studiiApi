@@ -53,6 +53,12 @@
             "title": "Agbami Scholarship for 100 and 200 Level Undergraduate Nigeria Students",
             "info": "Star Deep Water Petroleum Limited, a Chevron company and operator of the Agbami Field, in its continuous support for capacity building in the health and Engineering sectors as a strategic feed into the national manpower pool, offers a number of University Scholarship Awards to qualified Nigerian students of ALL the states of the Federation.",
             "link": ""
+        },
+        {
+            "id": "10",
+            "title": "Amazon AI and ML Scholarship",
+            "info": "Whether you're new to AI or looking to break into the field, the AWS AI & ML Scholarship program, in collaboration with Udacity, helps students globally to learn foundational skills to prepare for careers in technology. Through a comprehensive AI training program designed by AWS experts, students will get hands-on with real-world projects, learn from industry mentors, and access career resources.",
+            "link": "https://aws.amazon.com/machine-learning/scholarship/"
         }
     ]
 }
