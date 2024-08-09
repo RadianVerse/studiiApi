@@ -289,6 +289,22 @@
             "shortName": "Wp",
             "author": "Captain Dominion",
             "displayName": "World Problem"
+        },
+        {
+            "name": "Testing1",
+            "info": "Contains Standard only.",
+            "data": [
+                {
+                    "id": 1,
+                    "name": "Standard",
+                    "info": "This is a test quiz card, might not be functional.",
+                    "time": 60
+                }
+            ],
+            "color": "#DE3163",
+            "shortName": "Te",
+            "author": "SciSurf",
+            "displayName": "Testing 1"
         }
     ],
     "generalCardInfo": [
@@ -2329,6 +2345,49 @@
             }
         },
         "WorldProblem": {
+            "Standard": {
+                "array": [],
+                "length": 5,
+                "levels": [
+                    {
+                        "id": "1",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "true"
+                    },
+                    {
+                        "id": "2",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "3",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "4",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "5",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    }
+                ]
+            }
+        },
+        "Testing1": {
             "Standard": {
                 "array": [],
                 "length": 5,
