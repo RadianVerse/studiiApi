@@ -3269,9 +3269,9 @@
             }
         ]
     },
-    "GST112": {
-        "courseTitle": "Philosophy And Logic",
-        "courseCode": "GST112",
+    "GST212": {
+        "courseTitle": "Philosophy, Logic and Human",
+        "courseCode": "GST212",
         "questionYears": [
             {
                 "questions": [
@@ -4787,9 +4787,9 @@
             }
         ]
     },
-    "GST121": {
-        "courseTitle": "Peace Management And Conflict Resolution",
-        "courseCode": "GST121",
+    "GST312": {
+        "courseTitle": "Peace Studies And Conflict Resolution",
+        "courseCode": "GST312",
         "questionYears": [
             {
                 "questions": [
@@ -6305,9 +6305,9 @@
             }
         ]
     },
-    "GST122": {
+    "GST112": {
         "courseTitle": "Nigerian People And Culture",
-        "courseCode": "GST122",
+        "courseCode": "GST112",
         "questionYears": [
             {
                 "questions": [
@@ -13051,4 +13051,5 @@
             }
         ]
     }
+
 }
