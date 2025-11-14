@@ -2757,7 +2757,7 @@
             ]
         ]
     },
-    "GST112": {
+    "GST212": {
         "topics": [
             "Defination of Philosophy 1",
             "Defination of Philosophy 2",
@@ -3159,7 +3159,7 @@
             ]
         ]
     },
-    "GST121": {
+    "GST312": {
         "topics": [
             "Conflict Issues And The Basic Assumption",
             "Ethical Theories And Conflict Resolution",
@@ -3594,7 +3594,7 @@
             ]
         ]
     },
-    "GST122": {
+    "GST112": {
         "topics": [
             "Nigeria History in Pre-colonial Times-Southern Nigeria",
             "The Nigerian History in Pre-Colonial Times - Northern Nigeria",
@@ -7143,4 +7143,5 @@
             ]
         ]
     }
+
 }
