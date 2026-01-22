@@ -3270,9 +3270,9 @@
                 }
             ]
         },
-        "GST112": {
+        "GST212": {
             "courseTitle": "Philosophy And Logic",
-            "courseCode": "GST112",
+            "courseCode": "GST212",
             "questionYears": [
                 {
                     "year": "2015",
@@ -4788,9 +4788,9 @@
                 }
             ]
         },
-        "GST121": {
+        "GST312": {
             "courseTitle": "Peace Management And Conflict Resolution",
-            "courseCode": "GST121",
+            "courseCode": "GST312",
             "questionYears": [
                 {
                     "year": "2015",
@@ -6306,7 +6306,7 @@
                 }
             ]
         },
-        "GST122": {
+        "GST112": {
             "courseTitle": "Philosophy And Logic",
             "courseCode": "GST112",
             "questionYears": [
@@ -13106,4 +13106,5 @@
             }
         }
     }
+
 }
