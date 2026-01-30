@@ -2,6 +2,7 @@
     "update": {
         "available": "yes",
         "type": "Force",
+        "link": "https://play.google.com/store/apps/details?id=com.unibengst",
         "date": "01/01/2026",
         "updateInfo": {
             "Title": "Available Update!",
@@ -37,5 +38,6 @@
         }
     ]
 }
+
 
 
